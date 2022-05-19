@@ -2,11 +2,11 @@ version: 1.0.0
 rootdir: /home/dan/go/src/danf/ipms-test/reloadflow
 manifest:
     productid: 2b3ddae1-7570-49c6-a6be-ea794d88a837
-    releaseid: 00000000-0000-0000-0000-000000000000
+    releaseid: 99a00b3c-1366-4c36-80e7-4880c47aea9a
     company: ipextreme
     name: reloadflow
-    release: ""
-    uri: ""
+    release: 1.0.0
+    uri: ipextreme/reloadflow/1-0-0
     producttype: ""
     usesemver: true
     packagesources: true
