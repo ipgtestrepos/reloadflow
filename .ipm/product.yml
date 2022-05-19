@@ -1,0 +1,16 @@
+version: 1.0.0
+rootdir: /home/dan/go/src/danf/ipms-test/reloadflow
+manifest:
+    productid: 2b3ddae1-7570-49c6-a6be-ea794d88a837
+    releaseid: 00000000-0000-0000-0000-000000000000
+    company: ipextreme
+    name: reloadflow
+    release: ""
+    uri: ""
+    producttype: ""
+    usesemver: true
+    packagesources: true
+    fpextensions: .v
+    productindex: ipindex
+    lastupdate: 2022-05-19T06:57:11.354579-07:00
+    description: testing flow with project root
